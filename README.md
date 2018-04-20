@@ -20,4 +20,6 @@ The LED strip is divided into several sections physically and logically, but use
 
 (ok maybe all are not Adafruit NeoPixel, but they are compatible. The above linked rgbww singles are smaller than the Adafruit Flora pixels and fit inside buttons better)
 
+A raw photo gallery of project in process is at https://photos.app.goo.gl/xcB1iYuDJkAJ8V432
+
 Wiring is a bitch.
